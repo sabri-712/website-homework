@@ -1,0 +1,38 @@
+.nav1{
+    text-align: center;
+    
+    display:flex;
+    
+    padding: 10px;
+}
+
+    .top-wrapper{
+    display: flex;
+    justify-content: space-between;
+    }
+.left-wrapper{
+    display: flex;
+}
+.right-wrapper{
+    display: flex;
+}
+.icon{
+    width: 25px;
+    height: 25px;
+}
+.signinbutton{
+    /* width: 15px;
+    height: 15px; */
+}
+.maincontentwrapper{
+display: flex;
+flex-direction: column;
+justify-content: center;
+border: solid;
+}
+
+.center{
+    margin-left: auto;
+    border:solid red;
+    margin-right: auto;
+}
